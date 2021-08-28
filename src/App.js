@@ -6,7 +6,7 @@ import TodoFeature from './features/Todu/pages';
 function App() {
   return (
     <div className="App">
-      <TodoFeature123 />
+      <TodoFeature />
     </div>
   );
 }
